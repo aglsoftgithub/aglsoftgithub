@@ -22,11 +22,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aglsoftgithub&show_icons=true&locale=en&layout=compact" alt="aglsoftgithub" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aglsoftgithub&show_icons=true&locale=en" alt="aglsoftgithub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aglsoftgithub&show_icons=true&locale=en&layout=compact" alt="aglsoftgithub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aglsoftgithub&show_icons=true&locale=en" alt="aglsoftgithub" />
 </p>
 
-<p align="center"> 
+<p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aglsoftgithub" alt="aglsoftgithub" /></a> 
 </p>
 
