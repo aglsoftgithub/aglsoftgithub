@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Adrien Lagrange, backend web and software developer. I really appreciate learning web technologies like Bootstrap, Laravel, JQuery and NodeJS. I also enjoy wireframing, ui, design in general. You can check out my online resume at https://bit.ly/3SKkfA2 or https://youtube.com/@aglsoftofficiel.
+
+[![AGLSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=aglsoftgithub)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aglsoftgithub/aglsoftgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
