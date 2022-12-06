@@ -22,17 +22,17 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aglsoftgithub&show_icons=true&locale=en" alt="aglsoftgithub" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aglsoftgithub&show_icons=true&locale=en&layout=compact" alt="aglsoftgithub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aglsoftgithub&show_icons=true&locale=en" alt="aglsoftgithub" />
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aglsoftgithub" alt="aglsoftgithub" /></a> 
 </p>
 
-## Connect with me:
+## Connect with me
 <p align="left">
-  <a href="mailto:aglsoft96@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="https://www.youtube.com/@aglsoftofficiel" height="30" width="40" /></a>
+  <a href="mailto:aglsoft96@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="https://www.youtube.com/@aglsoftofficiel" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/adrien-guy-lagrange-259b99125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrien-guy-lagrange-259b99125/" height="20" width="30" /></a>
   <a href="https://www.youtube.com/@aglsoftofficiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aglsoftofficiel" height="30" width="40" /></a>
 </p>
