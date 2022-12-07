@@ -14,8 +14,8 @@
 
 ### Website
 <p>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y56ZZToiUUI" target="_blank"><img src="http://img.youtube.com/vi/Y56ZZToiUUI/0.jpg" alt="Y56ZZToiUUI" width="200" height="140" border="10" /></a>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3xXCNY0W-XE" target="_blank"><img src="http://img.youtube.com/vi/3xXCNY0W-XE/0.jpg" alt="3xXCNY0W-XE" width="200" height="140" border="10" /></a>
+  <a href="https://web.ah-dev.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/research.png" alt="Y56ZZToiUUI" width="200" height="140" border="10" /></a>
+  <a href="https://simplyfile.ah-dev.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/simplyfile.png" alt="Y56ZZToiUUI" width="200" height="140" border="10" /></a>
 </p>
 
 ### YouTube
