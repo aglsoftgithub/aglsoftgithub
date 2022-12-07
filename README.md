@@ -1,7 +1,9 @@
 ![AGLSoft Banner](https://github.com/aglsoftgithub/aglsoftgithub/blob/main/banner_aglsoft.jpg)
 
 # Hi 👋, I'm Adrien Lagrange (AGLSoft)</h1>
-<p>A passionate backend developer</p>
+<p>
+A passionate web backend and software developer. Passionate about creation since I was young, I quickly found my place in the world of computer creativity, more precisely in computer programming. Through its different openings and possibilities, I focused on web development and software development. My main goal being to bring solutions to different problems, I am open to any technology useful to the design and realization of the said solution. But to remain modest, I develop mainly in Java for software and in PHP for web applications.
+</p>
 
 ## Skills and Experience
 - 🌱 I’m currently learning **Java, Python, Laravel, Django**
@@ -12,7 +14,7 @@
 
 ## Examples of Work
 
-### Website
+### Websites
 <p>
   <a href="https://web.ah-dev.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/research.png" alt="Y56ZZToiUUI" width="200" height="140" border="10" /></a>
   <a href="https://simplyfile.ah-dev.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/simplyfile.png" alt="Y56ZZToiUUI" width="200" height="140" border="10" /></a>
