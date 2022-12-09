@@ -19,6 +19,7 @@ A passionate web backend and software developer. Passionate about creation since
   <a href="https://ah-dev.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/ahdev.png" alt="AH-Dev" title="Start-up AH-Dev" width="200" height="110" border="10" /></a>
   <a href="https://enspd-udo.cm" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/enspd.png" alt="ENSPD Cameroun" title="ENSPD Cameroun" width="200" height="110" border="10" /></a>
   <a href="https://cincub-enspd.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/cincub-enspd.png" alt="CINCUB3 ENSPD Cameroun" title="CINCUB3 ENSPD Cameroun" width="200" height="110" border="10" /></a>
+  <a href="https://bie-innov.com" target="_blank"><img src="https://github.com/aglsoftgithub/aglsoftgithub/blob/main/websites/bie.png" alt="Bourse de l'Innovation" title="Bourse de l'Innovation - Site de Promotion de projets et de recherche de solutions" width="200" height="110" border="10" /></a>
 </p>
 
 ### YouTube
