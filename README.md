@@ -24,9 +24,10 @@ A passionate web backend and software developer. Passionate about creation since
 
 ### YouTube
 <p>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y56ZZToiUUI" target="_blank"><img src="http://img.youtube.com/vi/Y56ZZToiUUI/0.jpg" alt="Y56ZZToiUUI" width="200" height="140" border="10" /></a>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=eY9WUBWOgGI" target="_blank"><img src="http://img.youtube.com/vi/eY9WUBWOgGI/0.jpg" alt="eY9WUBWOgGI" width="200" height="140" border="10" /></a>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3xXCNY0W-XE" target="_blank"><img src="http://img.youtube.com/vi/3xXCNY0W-XE/0.jpg" alt="3xXCNY0W-XE" width="200" height="140" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y56ZZToiUUI" target="_blank"><img src="http://img.youtube.com/vi/Y56ZZToiUUI/0.jpg" alt="Y56ZZToiUUI" width="160" height="100" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=eY9WUBWOgGI" target="_blank"><img src="http://img.youtube.com/vi/eY9WUBWOgGI/0.jpg" alt="eY9WUBWOgGI" width="160" height="100" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3xXCNY0W-XE" target="_blank"><img src="http://img.youtube.com/vi/3xXCNY0W-XE/0.jpg" alt="3xXCNY0W-XE" width="160" height="100" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=HeFpxxGfDps" target="_blank"><img src="http://img.youtube.com/vi/HeFpxxGfDps/0.jpg" alt="HeFpxxGfDps" width="160" height="100" border="10" /></a>
 </p>
 
 ## Languages and Tools
